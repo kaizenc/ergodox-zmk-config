@@ -16,8 +16,8 @@
     &kp LSHFT  &kp Z      &kp X      &kp C      &kp V      &kp B      &kp M_VOLD &kp M_VOLU &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
     &none      &kp LCTRL  &kp LWIN   &kp LALT   &kp GRAVE                                              &kp LEFT   &kp UP     &kp DOWN   &RIGHT     &none
                                                            &kp HOME   &kp END    &kp INS    &kp DEL
-                                                                      &kp PGUP   &kp PRSC
-                                                &kp SPC    &kp LCTL                         &kp RET    &kp SPC
+                                                                      &kp PGUP   &kp PSCN
+                                                &kp SPC    &kp LCTRL                        &kp RET    &kp SPC
                                                                       &kp PGDN   &mo 1
                         >;
                 };
